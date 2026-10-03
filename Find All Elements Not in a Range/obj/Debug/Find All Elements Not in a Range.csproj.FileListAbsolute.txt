@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find All Elements Not in a Range\bin\Debug\Find All Elements Not in a Range.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find All Elements Not in a Range\bin\Debug\Find All Elements Not in a Range.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find All Elements Not in a Range\bin\Debug\Find All Elements Not in a Range.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find All Elements Not in a Range\obj\Debug\Find All Elements Not in a Range.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find All Elements Not in a Range\obj\Debug\Find All Elements Not in a Range.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find All Elements Not in a Range\obj\Debug\Find All Elements Not in a Range.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find All Elements Not in a Range\obj\Debug\Find All Elements Not in a Range.pdb

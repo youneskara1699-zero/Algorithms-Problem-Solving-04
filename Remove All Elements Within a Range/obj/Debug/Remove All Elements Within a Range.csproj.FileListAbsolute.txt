@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove All Elements Within a Range\bin\Debug\Remove All Elements Within a Range.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove All Elements Within a Range\bin\Debug\Remove All Elements Within a Range.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove All Elements Within a Range\bin\Debug\Remove All Elements Within a Range.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove All Elements Within a Range\obj\Debug\Remove All Elements Within a Range.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove All Elements Within a Range\obj\Debug\Remove All Elements Within a Range.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove All Elements Within a Range\obj\Debug\Remove All Elements Within a Range.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove All Elements Within a Range\obj\Debug\Remove All Elements Within a Range.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove All Elements Within a Range\obj\Debug\Remove All Elements Within a Range.exe.config

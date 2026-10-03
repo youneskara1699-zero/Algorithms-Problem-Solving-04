@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Duplicate Elements\bin\Debug\Find Duplicate Elements.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Duplicate Elements\bin\Debug\Find Duplicate Elements.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Duplicate Elements\bin\Debug\Find Duplicate Elements.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Duplicate Elements\obj\Debug\Find Duplicate Elements.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Duplicate Elements\obj\Debug\Find Duplicate Elements.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Duplicate Elements\obj\Debug\Find Duplicate Elements.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Duplicate Elements\obj\Debug\Find Duplicate Elements.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Duplicate Elements\obj\Debug\Find Duplicate Elements.exe.config

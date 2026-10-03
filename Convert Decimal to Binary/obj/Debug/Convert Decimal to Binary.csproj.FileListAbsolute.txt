@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert Decimal to Binary\bin\Debug\Convert Decimal to Binary.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert Decimal to Binary\bin\Debug\Convert Decimal to Binary.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert Decimal to Binary\bin\Debug\Convert Decimal to Binary.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert Decimal to Binary\obj\Debug\Convert Decimal to Binary.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert Decimal to Binary\obj\Debug\Convert Decimal to Binary.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert Decimal to Binary\obj\Debug\Convert Decimal to Binary.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert Decimal to Binary\obj\Debug\Convert Decimal to Binary.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert Decimal to Binary\obj\Debug\Convert Decimal to Binary.exe.config

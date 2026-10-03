@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Hierarchical Employee Management\obj\Debug\Hierarchical Employee Management.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Hierarchical Employee Management\obj\Debug\Hierarchical Employee Management.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Hierarchical Employee Management\bin\Debug\Hierarchical Employee Management.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Hierarchical Employee Management\bin\Debug\Hierarchical Employee Management.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Hierarchical Employee Management\bin\Debug\Hierarchical Employee Management.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Hierarchical Employee Management\obj\Debug\Hierarchical Employee Management.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Hierarchical Employee Management\obj\Debug\Hierarchical Employee Management.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Hierarchical Employee Management\obj\Debug\Hierarchical Employee Management.exe.config

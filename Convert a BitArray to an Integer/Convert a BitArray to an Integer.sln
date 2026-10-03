@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert a BitArray to an Integer", "Convert a BitArray to an Integer.csproj", "{B9D1B7EB-891A-4E3D-A16F-7493637DBECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D1B7EB-891A-4E3D-A16F-7493637DBECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D1B7EB-891A-4E3D-A16F-7493637DBECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D1B7EB-891A-4E3D-A16F-7493637DBECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D1B7EB-891A-4E3D-A16F-7493637DBECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90855401-1E13-4B6F-9BD2-A7D69C381A1C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Undo Operations in a Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E98FF8-4878-4BC5-B6A0-E6342065D5C6}|Undo Operations in a Calculator.csproj|c:\\users\\shift 2.0\\desktop\\dsa problem solving\\undo operations in a calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E98FF8-4878-4BC5-B6A0-E6342065D5C6}|Undo Operations in a Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Undo Operations in a Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Undo Operations in a Calculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T15:04:28.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

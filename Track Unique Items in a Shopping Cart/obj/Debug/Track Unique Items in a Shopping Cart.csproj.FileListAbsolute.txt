@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Unique Items in a Shopping Cart\bin\Debug\Track Unique Items in a Shopping Cart.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Unique Items in a Shopping Cart\bin\Debug\Track Unique Items in a Shopping Cart.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Unique Items in a Shopping Cart\bin\Debug\Track Unique Items in a Shopping Cart.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Unique Items in a Shopping Cart\obj\Debug\Track Unique Items in a Shopping Cart.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Unique Items in a Shopping Cart\obj\Debug\Track Unique Items in a Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Unique Items in a Shopping Cart\obj\Debug\Track Unique Items in a Shopping Cart.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Unique Items in a Shopping Cart\obj\Debug\Track Unique Items in a Shopping Cart.pdb

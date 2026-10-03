@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Missing Numbers in a Range", "Find Missing Numbers in a Range.csproj", "{226B9E2F-64D4-4D7A-834F-FDE307B0F101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226B9E2F-64D4-4D7A-834F-FDE307B0F101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226B9E2F-64D4-4D7A-834F-FDE307B0F101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226B9E2F-64D4-4D7A-834F-FDE307B0F101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226B9E2F-64D4-4D7A-834F-FDE307B0F101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D4A7FBA-1C8B-4D39-8AED-6750F53C6B85}
+	EndGlobalSection
+EndGlobal

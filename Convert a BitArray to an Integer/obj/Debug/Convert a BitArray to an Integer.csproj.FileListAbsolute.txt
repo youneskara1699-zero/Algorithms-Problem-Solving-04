@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert a BitArray to an Integer\bin\Debug\Convert a BitArray to an Integer.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert a BitArray to an Integer\bin\Debug\Convert a BitArray to an Integer.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert a BitArray to an Integer\bin\Debug\Convert a BitArray to an Integer.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert a BitArray to an Integer\obj\Debug\Convert a BitArray to an Integer.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert a BitArray to an Integer\obj\Debug\Convert a BitArray to an Integer.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert a BitArray to an Integer\obj\Debug\Convert a BitArray to an Integer.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert a BitArray to an Integer\obj\Debug\Convert a BitArray to an Integer.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Convert a BitArray to an Integer\obj\Debug\Convert a BitArray to an Integer.exe.config

@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Retrieve Student Grades\bin\Debug\Store and Retrieve Student Grades.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Retrieve Student Grades\bin\Debug\Store and Retrieve Student Grades.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Retrieve Student Grades\bin\Debug\Store and Retrieve Student Grades.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Retrieve Student Grades\obj\Debug\Store and Retrieve Student Grades.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Retrieve Student Grades\obj\Debug\Store and Retrieve Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Retrieve Student Grades\obj\Debug\Store and Retrieve Student Grades.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Retrieve Student Grades\obj\Debug\Store and Retrieve Student Grades.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Retrieve Student Grades\obj\Debug\Store and Retrieve Student Grades.exe.config

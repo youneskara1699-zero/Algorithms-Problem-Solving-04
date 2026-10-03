@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Sales Data by Quarter\bin\Debug\Store Sales Data by Quarter.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Sales Data by Quarter\bin\Debug\Store Sales Data by Quarter.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Sales Data by Quarter\bin\Debug\Store Sales Data by Quarter.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Sales Data by Quarter\obj\Debug\Store Sales Data by Quarter.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Sales Data by Quarter\obj\Debug\Store Sales Data by Quarter.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Sales Data by Quarter\obj\Debug\Store Sales Data by Quarter.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Sales Data by Quarter\obj\Debug\Store Sales Data by Quarter.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Sales Data by Quarter\obj\Debug\Store Sales Data by Quarter.exe.config

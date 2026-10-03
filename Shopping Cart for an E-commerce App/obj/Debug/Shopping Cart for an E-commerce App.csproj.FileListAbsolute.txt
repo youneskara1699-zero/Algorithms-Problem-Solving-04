@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Shopping Cart for an E-commerce App\bin\Debug\Shopping Cart for an E-commerce App.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Shopping Cart for an E-commerce App\bin\Debug\Shopping Cart for an E-commerce App.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Shopping Cart for an E-commerce App\bin\Debug\Shopping Cart for an E-commerce App.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Shopping Cart for an E-commerce App\obj\Debug\Shopping Cart for an E-commerce App.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Shopping Cart for an E-commerce App\obj\Debug\Shopping Cart for an E-commerce App.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Shopping Cart for an E-commerce App\obj\Debug\Shopping Cart for an E-commerce App.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Shopping Cart for an E-commerce App\obj\Debug\Shopping Cart for an E-commerce App.pdb

@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove Invalid Parentheses\bin\Debug\Remove Invalid Parentheses.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove Invalid Parentheses\bin\Debug\Remove Invalid Parentheses.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove Invalid Parentheses\bin\Debug\Remove Invalid Parentheses.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove Invalid Parentheses\obj\Debug\Remove Invalid Parentheses.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove Invalid Parentheses\obj\Debug\Remove Invalid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove Invalid Parentheses\obj\Debug\Remove Invalid Parentheses.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove Invalid Parentheses\obj\Debug\Remove Invalid Parentheses.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Remove Invalid Parentheses\obj\Debug\Remove Invalid Parentheses.exe.config

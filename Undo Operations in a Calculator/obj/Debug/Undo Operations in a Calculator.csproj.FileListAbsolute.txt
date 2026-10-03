@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Undo Operations in a Calculator\bin\Debug\Undo Operations in a Calculator.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Undo Operations in a Calculator\bin\Debug\Undo Operations in a Calculator.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Undo Operations in a Calculator\bin\Debug\Undo Operations in a Calculator.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Undo Operations in a Calculator\obj\Debug\Undo Operations in a Calculator.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Undo Operations in a Calculator\obj\Debug\Undo Operations in a Calculator.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Undo Operations in a Calculator\obj\Debug\Undo Operations in a Calculator.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Undo Operations in a Calculator\obj\Debug\Undo Operations in a Calculator.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Undo Operations in a Calculator\obj\Debug\Undo Operations in a Calculator.exe.config

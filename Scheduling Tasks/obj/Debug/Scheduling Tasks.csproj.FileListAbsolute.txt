@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Scheduling Tasks\bin\Debug\Scheduling Tasks.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Scheduling Tasks\bin\Debug\Scheduling Tasks.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Scheduling Tasks\bin\Debug\Scheduling Tasks.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Scheduling Tasks\obj\Debug\Scheduling Tasks.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Scheduling Tasks\obj\Debug\Scheduling Tasks.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Scheduling Tasks\obj\Debug\Scheduling Tasks.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Scheduling Tasks\obj\Debug\Scheduling Tasks.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Scheduling Tasks\obj\Debug\Scheduling Tasks.exe.config

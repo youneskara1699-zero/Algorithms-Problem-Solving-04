@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Elements Less Than a Value\bin\Debug\Find Elements Less Than a Value.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Elements Less Than a Value\bin\Debug\Find Elements Less Than a Value.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Elements Less Than a Value\bin\Debug\Find Elements Less Than a Value.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Elements Less Than a Value\obj\Debug\Find Elements Less Than a Value.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Elements Less Than a Value\obj\Debug\Find Elements Less Than a Value.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Elements Less Than a Value\obj\Debug\Find Elements Less Than a Value.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Elements Less Than a Value\obj\Debug\Find Elements Less Than a Value.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Elements Less Than a Value\obj\Debug\Find Elements Less Than a Value.exe.config

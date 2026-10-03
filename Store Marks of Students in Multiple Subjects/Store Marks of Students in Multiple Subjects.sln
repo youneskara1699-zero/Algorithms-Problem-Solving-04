@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store Marks of Students in Multiple Subjects", "Store Marks of Students in Multiple Subjects.csproj", "{F973AF3D-1CBD-4ED5-9CA7-DFA7885EBF1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F973AF3D-1CBD-4ED5-9CA7-DFA7885EBF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F973AF3D-1CBD-4ED5-9CA7-DFA7885EBF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F973AF3D-1CBD-4ED5-9CA7-DFA7885EBF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F973AF3D-1CBD-4ED5-9CA7-DFA7885EBF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2747B4D8-9280-45C2-B0D5-DC07EDA38DB2}
+	EndGlobalSection
+EndGlobal

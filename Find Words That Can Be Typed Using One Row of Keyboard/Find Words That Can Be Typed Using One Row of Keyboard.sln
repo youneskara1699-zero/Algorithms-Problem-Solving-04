@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Words That Can Be Typed Using One Row of Keyboard", "Find Words That Can Be Typed Using One Row of Keyboard.csproj", "{5B9C7191-02E5-486C-AB0F-F1E1456036F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B9C7191-02E5-486C-AB0F-F1E1456036F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9C7191-02E5-486C-AB0F-F1E1456036F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9C7191-02E5-486C-AB0F-F1E1456036F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9C7191-02E5-486C-AB0F-F1E1456036F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19D7E758-87C0-44EE-9B78-3D2FD4EFCADC}
+	EndGlobalSection
+EndGlobal

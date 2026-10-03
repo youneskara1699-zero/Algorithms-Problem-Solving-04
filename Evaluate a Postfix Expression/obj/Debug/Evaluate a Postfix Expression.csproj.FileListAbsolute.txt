@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Evaluate a Postfix Expression\bin\Debug\Evaluate a Postfix Expression.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Evaluate a Postfix Expression\bin\Debug\Evaluate a Postfix Expression.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Evaluate a Postfix Expression\bin\Debug\Evaluate a Postfix Expression.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Evaluate a Postfix Expression\obj\Debug\Evaluate a Postfix Expression.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Evaluate a Postfix Expression\obj\Debug\Evaluate a Postfix Expression.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Evaluate a Postfix Expression\obj\Debug\Evaluate a Postfix Expression.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Evaluate a Postfix Expression\obj\Debug\Evaluate a Postfix Expression.pdb

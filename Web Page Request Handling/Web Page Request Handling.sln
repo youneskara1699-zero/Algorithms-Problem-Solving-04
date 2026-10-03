@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Page Request Handling", "Web Page Request Handling.csproj", "{E30E5675-42C0-4681-9015-7C977930F7D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E30E5675-42C0-4681-9015-7C977930F7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30E5675-42C0-4681-9015-7C977930F7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30E5675-42C0-4681-9015-7C977930F7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30E5675-42C0-4681-9015-7C977930F7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14624019-633F-43D7-A5DE-71C1DCB9992A}
+	EndGlobalSection
+EndGlobal

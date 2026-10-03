@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Optimizing Space in Large Data\bin\Debug\Optimizing Space in Large Data.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Optimizing Space in Large Data\bin\Debug\Optimizing Space in Large Data.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Optimizing Space in Large Data\bin\Debug\Optimizing Space in Large Data.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Optimizing Space in Large Data\obj\Debug\Optimizing Space in Large Data.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Optimizing Space in Large Data\obj\Debug\Optimizing Space in Large Data.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Optimizing Space in Large Data\obj\Debug\Optimizing Space in Large Data.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Optimizing Space in Large Data\obj\Debug\Optimizing Space in Large Data.pdb

@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort and Remove Duplicates from a List\bin\Debug\Sort and Remove Duplicates from a List.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort and Remove Duplicates from a List\bin\Debug\Sort and Remove Duplicates from a List.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort and Remove Duplicates from a List\bin\Debug\Sort and Remove Duplicates from a List.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort and Remove Duplicates from a List\obj\Debug\Sort and Remove Duplicates from a List.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort and Remove Duplicates from a List\obj\Debug\Sort and Remove Duplicates from a List.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort and Remove Duplicates from a List\obj\Debug\Sort and Remove Duplicates from a List.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort and Remove Duplicates from a List\obj\Debug\Sort and Remove Duplicates from a List.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort and Remove Duplicates from a List\obj\Debug\Sort and Remove Duplicates from a List.exe.config

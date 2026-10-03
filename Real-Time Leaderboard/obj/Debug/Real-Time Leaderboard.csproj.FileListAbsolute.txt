@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Leaderboard\bin\Debug\Real-Time Leaderboard.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Leaderboard\bin\Debug\Real-Time Leaderboard.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Leaderboard\bin\Debug\Real-Time Leaderboard.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Leaderboard\obj\Debug\Real-Time Leaderboard.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Leaderboard\obj\Debug\Real-Time Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Leaderboard\obj\Debug\Real-Time Leaderboard.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Leaderboard\obj\Debug\Real-Time Leaderboard.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Leaderboard\obj\Debug\Real-Time Leaderboard.exe.config

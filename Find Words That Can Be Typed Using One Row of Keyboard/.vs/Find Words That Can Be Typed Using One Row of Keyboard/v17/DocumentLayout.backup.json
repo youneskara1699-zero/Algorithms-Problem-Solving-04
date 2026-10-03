@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Find Words That Can Be Typed Using One Row of Keyboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9C7191-02E5-486C-AB0F-F1E1456036F5}|Find Words That Can Be Typed Using One Row of Keyboard.csproj|c:\\users\\shift 2.0\\desktop\\dsa problem solving\\find words that can be typed using one row of keyboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9C7191-02E5-486C-AB0F-F1E1456036F5}|Find Words That Can Be Typed Using One Row of Keyboard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Find Words That Can Be Typed Using One Row of Keyboard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Find Words That Can Be Typed Using One Row of Keyboard\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T14:31:55.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

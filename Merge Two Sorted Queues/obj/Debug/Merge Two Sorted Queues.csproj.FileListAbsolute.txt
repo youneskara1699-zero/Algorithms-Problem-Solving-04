@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Merge Two Sorted Queues\bin\Debug\Merge Two Sorted Queues.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Merge Two Sorted Queues\bin\Debug\Merge Two Sorted Queues.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Merge Two Sorted Queues\bin\Debug\Merge Two Sorted Queues.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Merge Two Sorted Queues\obj\Debug\Merge Two Sorted Queues.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Merge Two Sorted Queues\obj\Debug\Merge Two Sorted Queues.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Merge Two Sorted Queues\obj\Debug\Merge Two Sorted Queues.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Merge Two Sorted Queues\obj\Debug\Merge Two Sorted Queues.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Merge Two Sorted Queues\obj\Debug\Merge Two Sorted Queues.exe.config

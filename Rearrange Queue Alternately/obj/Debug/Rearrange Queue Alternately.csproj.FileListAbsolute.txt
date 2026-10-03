@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Queue Alternately\bin\Debug\Rearrange Queue Alternately.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Queue Alternately\bin\Debug\Rearrange Queue Alternately.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Queue Alternately\bin\Debug\Rearrange Queue Alternately.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Queue Alternately\obj\Debug\Rearrange Queue Alternately.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Queue Alternately\obj\Debug\Rearrange Queue Alternately.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Queue Alternately\obj\Debug\Rearrange Queue Alternately.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Queue Alternately\obj\Debug\Rearrange Queue Alternately.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Queue Alternately\obj\Debug\Rearrange Queue Alternately.exe.config

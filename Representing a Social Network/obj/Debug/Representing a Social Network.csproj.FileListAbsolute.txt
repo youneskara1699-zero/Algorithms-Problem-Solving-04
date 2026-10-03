@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Representing a Social Network\bin\Debug\Representing a Social Network.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Representing a Social Network\bin\Debug\Representing a Social Network.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Representing a Social Network\bin\Debug\Representing a Social Network.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Representing a Social Network\obj\Debug\Representing a Social Network.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Representing a Social Network\obj\Debug\Representing a Social Network.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Representing a Social Network\obj\Debug\Representing a Social Network.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Representing a Social Network\obj\Debug\Representing a Social Network.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Representing a Social Network\obj\Debug\Representing a Social Network.exe.config

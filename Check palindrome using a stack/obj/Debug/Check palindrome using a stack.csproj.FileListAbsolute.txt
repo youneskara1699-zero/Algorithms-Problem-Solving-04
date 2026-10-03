@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check palindrome using a stack\bin\Debug\Check palindrome using a stack.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check palindrome using a stack\bin\Debug\Check palindrome using a stack.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check palindrome using a stack\bin\Debug\Check palindrome using a stack.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check palindrome using a stack\obj\Debug\Check palindrome using a stack.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check palindrome using a stack\obj\Debug\Check palindrome using a stack.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check palindrome using a stack\obj\Debug\Check palindrome using a stack.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check palindrome using a stack\obj\Debug\Check palindrome using a stack.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check palindrome using a stack\obj\Debug\Check palindrome using a stack.exe.config

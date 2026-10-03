@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Directory Size Calculation\bin\Debug\Directory Size Calculation.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Directory Size Calculation\bin\Debug\Directory Size Calculation.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Directory Size Calculation\bin\Debug\Directory Size Calculation.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Directory Size Calculation\obj\Debug\Directory Size Calculation.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Directory Size Calculation\obj\Debug\Directory Size Calculation.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Directory Size Calculation\obj\Debug\Directory Size Calculation.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Directory Size Calculation\obj\Debug\Directory Size Calculation.pdb

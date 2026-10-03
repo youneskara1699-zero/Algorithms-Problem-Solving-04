@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If Set Contains Multiple Ranges\bin\Debug\Check If Set Contains Multiple Ranges.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If Set Contains Multiple Ranges\bin\Debug\Check If Set Contains Multiple Ranges.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If Set Contains Multiple Ranges\bin\Debug\Check If Set Contains Multiple Ranges.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If Set Contains Multiple Ranges\obj\Debug\Check If Set Contains Multiple Ranges.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If Set Contains Multiple Ranges\obj\Debug\Check If Set Contains Multiple Ranges.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If Set Contains Multiple Ranges\obj\Debug\Check If Set Contains Multiple Ranges.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If Set Contains Multiple Ranges\obj\Debug\Check If Set Contains Multiple Ranges.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If Set Contains Multiple Ranges\obj\Debug\Check If Set Contains Multiple Ranges.exe.config

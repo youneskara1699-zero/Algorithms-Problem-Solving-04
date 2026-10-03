@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Notification System\bin\Debug\Real-Time Notification System.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Notification System\bin\Debug\Real-Time Notification System.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Notification System\bin\Debug\Real-Time Notification System.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Notification System\obj\Debug\Real-Time Notification System.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Notification System\obj\Debug\Real-Time Notification System.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Notification System\obj\Debug\Real-Time Notification System.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Notification System\obj\Debug\Real-Time Notification System.pdb

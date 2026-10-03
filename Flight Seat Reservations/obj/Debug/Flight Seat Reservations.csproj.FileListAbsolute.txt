@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Flight Seat Reservations\bin\Debug\Flight Seat Reservations.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Flight Seat Reservations\bin\Debug\Flight Seat Reservations.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Flight Seat Reservations\bin\Debug\Flight Seat Reservations.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Flight Seat Reservations\obj\Debug\Flight Seat Reservations.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Flight Seat Reservations\obj\Debug\Flight Seat Reservations.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Flight Seat Reservations\obj\Debug\Flight Seat Reservations.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Flight Seat Reservations\obj\Debug\Flight Seat Reservations.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Flight Seat Reservations\obj\Debug\Flight Seat Reservations.exe.config

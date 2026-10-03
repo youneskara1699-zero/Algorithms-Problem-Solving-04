@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Create a BitArray from an Integer\bin\Debug\Create a BitArray from an Integer.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Create a BitArray from an Integer\bin\Debug\Create a BitArray from an Integer.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Create a BitArray from an Integer\bin\Debug\Create a BitArray from an Integer.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Create a BitArray from an Integer\obj\Debug\Create a BitArray from an Integer.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Create a BitArray from an Integer\obj\Debug\Create a BitArray from an Integer.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Create a BitArray from an Integer\obj\Debug\Create a BitArray from an Integer.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Create a BitArray from an Integer\obj\Debug\Create a BitArray from an Integer.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Create a BitArray from an Integer\obj\Debug\Create a BitArray from an Integer.exe.config

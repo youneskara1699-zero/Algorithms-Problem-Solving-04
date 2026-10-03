@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic Skill Matching\bin\Debug\Dynamic Skill Matching.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic Skill Matching\bin\Debug\Dynamic Skill Matching.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic Skill Matching\bin\Debug\Dynamic Skill Matching.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic Skill Matching\obj\Debug\Dynamic Skill Matching.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic Skill Matching\obj\Debug\Dynamic Skill Matching.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic Skill Matching\obj\Debug\Dynamic Skill Matching.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic Skill Matching\obj\Debug\Dynamic Skill Matching.pdb

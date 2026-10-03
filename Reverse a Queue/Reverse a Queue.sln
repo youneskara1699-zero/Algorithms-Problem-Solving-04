@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse a Queue", "Reverse a Queue.csproj", "{7F072993-904D-4D2F-BE89-39C1A7E46FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F072993-904D-4D2F-BE89-39C1A7E46FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F072993-904D-4D2F-BE89-39C1A7E46FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F072993-904D-4D2F-BE89-39C1A7E46FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F072993-904D-4D2F-BE89-39C1A7E46FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01463DA-35C0-40B5-9589-9DED08096B2A}
+	EndGlobalSection
+EndGlobal

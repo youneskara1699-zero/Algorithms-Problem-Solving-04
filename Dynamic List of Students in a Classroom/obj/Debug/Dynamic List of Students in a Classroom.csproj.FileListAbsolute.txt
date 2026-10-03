@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic List of Students in a Classroom\bin\Debug\Dynamic List of Students in a Classroom.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic List of Students in a Classroom\bin\Debug\Dynamic List of Students in a Classroom.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic List of Students in a Classroom\bin\Debug\Dynamic List of Students in a Classroom.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic List of Students in a Classroom\obj\Debug\Dynamic List of Students in a Classroom.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic List of Students in a Classroom\obj\Debug\Dynamic List of Students in a Classroom.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic List of Students in a Classroom\obj\Debug\Dynamic List of Students in a Classroom.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Dynamic List of Students in a Classroom\obj\Debug\Dynamic List of Students in a Classroom.pdb

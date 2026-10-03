@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File Permission System\bin\Debug\File Permission System.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File Permission System\bin\Debug\File Permission System.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File Permission System\bin\Debug\File Permission System.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File Permission System\obj\Debug\File Permission System.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File Permission System\obj\Debug\File Permission System.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File Permission System\obj\Debug\File Permission System.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File Permission System\obj\Debug\File Permission System.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File Permission System\obj\Debug\File Permission System.exe.config

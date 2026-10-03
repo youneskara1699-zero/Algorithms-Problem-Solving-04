@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Reserved Seats in a Theater\bin\Debug\Manage Reserved Seats in a Theater.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Reserved Seats in a Theater\bin\Debug\Manage Reserved Seats in a Theater.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Reserved Seats in a Theater\bin\Debug\Manage Reserved Seats in a Theater.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Reserved Seats in a Theater\obj\Debug\Manage Reserved Seats in a Theater.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Reserved Seats in a Theater\obj\Debug\Manage Reserved Seats in a Theater.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Reserved Seats in a Theater\obj\Debug\Manage Reserved Seats in a Theater.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Reserved Seats in a Theater\obj\Debug\Manage Reserved Seats in a Theater.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Reserved Seats in a Theater\obj\Debug\Manage Reserved Seats in a Theater.exe.config

@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Implementing Simple ]Day Backtracking\bin\Debug\Implementing Simple ]Day Backtracking.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Implementing Simple ]Day Backtracking\bin\Debug\Implementing Simple ]Day Backtracking.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Implementing Simple ]Day Backtracking\bin\Debug\Implementing Simple ]Day Backtracking.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Implementing Simple ]Day Backtracking\obj\Debug\Implementing Simple ]Day Backtracking.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Implementing Simple ]Day Backtracking\obj\Debug\Implementing Simple ]Day Backtracking.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Implementing Simple ]Day Backtracking\obj\Debug\Implementing Simple ]Day Backtracking.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Implementing Simple ]Day Backtracking\obj\Debug\Implementing Simple ]Day Backtracking.pdb

@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Even and Odd Elements\bin\Debug\Rearrange Even and Odd Elements.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Even and Odd Elements\bin\Debug\Rearrange Even and Odd Elements.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Even and Odd Elements\bin\Debug\Rearrange Even and Odd Elements.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Even and Odd Elements\obj\Debug\Rearrange Even and Odd Elements.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Even and Odd Elements\obj\Debug\Rearrange Even and Odd Elements.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Even and Odd Elements\obj\Debug\Rearrange Even and Odd Elements.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Even and Odd Elements\obj\Debug\Rearrange Even and Odd Elements.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rearrange Even and Odd Elements\obj\Debug\Rearrange Even and Odd Elements.exe.config

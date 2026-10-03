@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If a Sentence Is Pangram\bin\Debug\Check If a Sentence Is Pangram.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If a Sentence Is Pangram\bin\Debug\Check If a Sentence Is Pangram.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If a Sentence Is Pangram\bin\Debug\Check If a Sentence Is Pangram.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If a Sentence Is Pangram\obj\Debug\Check If a Sentence Is Pangram.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If a Sentence Is Pangram\obj\Debug\Check If a Sentence Is Pangram.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If a Sentence Is Pangram\obj\Debug\Check If a Sentence Is Pangram.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If a Sentence Is Pangram\obj\Debug\Check If a Sentence Is Pangram.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Check If a Sentence Is Pangram\obj\Debug\Check If a Sentence Is Pangram.exe.config

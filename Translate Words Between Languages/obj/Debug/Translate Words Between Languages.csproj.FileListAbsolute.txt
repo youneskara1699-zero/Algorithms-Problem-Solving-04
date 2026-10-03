@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Translate Words Between Languages\bin\Debug\Translate Words Between Languages.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Translate Words Between Languages\bin\Debug\Translate Words Between Languages.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Translate Words Between Languages\bin\Debug\Translate Words Between Languages.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Translate Words Between Languages\obj\Debug\Translate Words Between Languages.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Translate Words Between Languages\obj\Debug\Translate Words Between Languages.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Translate Words Between Languages\obj\Debug\Translate Words Between Languages.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Translate Words Between Languages\obj\Debug\Translate Words Between Languages.pdb

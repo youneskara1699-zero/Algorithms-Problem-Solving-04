@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Palindrome Queue\bin\Debug\Palindrome Queue.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Palindrome Queue\bin\Debug\Palindrome Queue.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Palindrome Queue\bin\Debug\Palindrome Queue.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Palindrome Queue\obj\Debug\Palindrome Queue.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Palindrome Queue\obj\Debug\Palindrome Queue.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Palindrome Queue\obj\Debug\Palindrome Queue.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Palindrome Queue\obj\Debug\Palindrome Queue.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Palindrome Queue\obj\Debug\Palindrome Queue.exe.config

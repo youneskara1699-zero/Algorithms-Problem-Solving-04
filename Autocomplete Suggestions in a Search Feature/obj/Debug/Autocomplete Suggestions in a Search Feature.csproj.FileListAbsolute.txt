@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Autocomplete Suggestions in a Search Feature\bin\Debug\Autocomplete Suggestions in a Search Feature.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Autocomplete Suggestions in a Search Feature\bin\Debug\Autocomplete Suggestions in a Search Feature.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Autocomplete Suggestions in a Search Feature\bin\Debug\Autocomplete Suggestions in a Search Feature.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Autocomplete Suggestions in a Search Feature\obj\Debug\Autocomplete Suggestions in a Search Feature.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Autocomplete Suggestions in a Search Feature\obj\Debug\Autocomplete Suggestions in a Search Feature.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Autocomplete Suggestions in a Search Feature\obj\Debug\Autocomplete Suggestions in a Search Feature.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Autocomplete Suggestions in a Search Feature\obj\Debug\Autocomplete Suggestions in a Search Feature.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Autocomplete Suggestions in a Search Feature\obj\Debug\Autocomplete Suggestions in a Search Feature.exe.config

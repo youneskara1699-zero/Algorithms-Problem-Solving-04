@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Player Stats in a Game\bin\Debug\Track Player Stats in a Game.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Player Stats in a Game\bin\Debug\Track Player Stats in a Game.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Player Stats in a Game\bin\Debug\Track Player Stats in a Game.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Player Stats in a Game\obj\Debug\Track Player Stats in a Game.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Player Stats in a Game\obj\Debug\Track Player Stats in a Game.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Player Stats in a Game\obj\Debug\Track Player Stats in a Game.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Player Stats in a Game\obj\Debug\Track Player Stats in a Game.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Track Player Stats in a Game\obj\Debug\Track Player Stats in a Game.exe.config

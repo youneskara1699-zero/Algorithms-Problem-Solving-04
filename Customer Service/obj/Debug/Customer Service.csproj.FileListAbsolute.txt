@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Customer Service\bin\Debug\Customer Service.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Customer Service\bin\Debug\Customer Service.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Customer Service\bin\Debug\Customer Service.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Customer Service\obj\Debug\Customer Service.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Customer Service\obj\Debug\Customer Service.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Customer Service\obj\Debug\Customer Service.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Customer Service\obj\Debug\Customer Service.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Customer Service\obj\Debug\Customer Service.exe.config

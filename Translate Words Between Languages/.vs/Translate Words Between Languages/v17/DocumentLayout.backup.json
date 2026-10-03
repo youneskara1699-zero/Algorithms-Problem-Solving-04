@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Translate Words Between Languages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E4CF6E-1BE6-4154-9FEA-4B49CE267221}|Translate Words Between Languages.csproj|c:\\users\\shift 2.0\\desktop\\dsa problem solving\\translate words between languages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E4CF6E-1BE6-4154-9FEA-4B49CE267221}|Translate Words Between Languages.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Translate Words Between Languages\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Translate Words Between Languages\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:16:58.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

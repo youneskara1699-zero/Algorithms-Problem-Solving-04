@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Category Hierarchy\bin\Debug\Category Hierarchy.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Category Hierarchy\bin\Debug\Category Hierarchy.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Category Hierarchy\bin\Debug\Category Hierarchy.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Category Hierarchy\obj\Debug\Category Hierarchy.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Category Hierarchy\obj\Debug\Category Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Category Hierarchy\obj\Debug\Category Hierarchy.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Category Hierarchy\obj\Debug\Category Hierarchy.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Category Hierarchy\obj\Debug\Category Hierarchy.exe.config

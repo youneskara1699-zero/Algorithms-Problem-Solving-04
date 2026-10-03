@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Missing Numbers in a Range\obj\Debug\Find Missing Numbers in a Range.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Missing Numbers in a Range\obj\Debug\Find Missing Numbers in a Range.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Missing Numbers in a Range\bin\Debug\Find Missing Numbers in a Range.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Missing Numbers in a Range\bin\Debug\Find Missing Numbers in a Range.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Missing Numbers in a Range\bin\Debug\Find Missing Numbers in a Range.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Missing Numbers in a Range\obj\Debug\Find Missing Numbers in a Range.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Missing Numbers in a Range\obj\Debug\Find Missing Numbers in a Range.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Missing Numbers in a Range\obj\Debug\Find Missing Numbers in a Range.exe.config

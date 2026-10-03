@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Compare Employee Details\bin\Debug\Store and Compare Employee Details.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Compare Employee Details\bin\Debug\Store and Compare Employee Details.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Compare Employee Details\bin\Debug\Store and Compare Employee Details.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Compare Employee Details\obj\Debug\Store and Compare Employee Details.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Compare Employee Details\obj\Debug\Store and Compare Employee Details.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Compare Employee Details\obj\Debug\Store and Compare Employee Details.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Compare Employee Details\obj\Debug\Store and Compare Employee Details.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store and Compare Employee Details\obj\Debug\Store and Compare Employee Details.exe.config

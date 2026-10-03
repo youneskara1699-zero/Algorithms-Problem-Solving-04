@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Simplified Address Representation\bin\Debug\Simplified Address Representation.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Simplified Address Representation\bin\Debug\Simplified Address Representation.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Simplified Address Representation\bin\Debug\Simplified Address Representation.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Simplified Address Representation\obj\Debug\Simplified Address Representation.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Simplified Address Representation\obj\Debug\Simplified Address Representation.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Simplified Address Representation\obj\Debug\Simplified Address Representation.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Simplified Address Representation\obj\Debug\Simplified Address Representation.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Simplified Address Representation\obj\Debug\Simplified Address Representation.exe.config

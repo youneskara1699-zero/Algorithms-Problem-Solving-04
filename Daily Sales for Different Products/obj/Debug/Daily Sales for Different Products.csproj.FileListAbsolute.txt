@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Daily Sales for Different Products\bin\Debug\Daily Sales for Different Products.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Daily Sales for Different Products\bin\Debug\Daily Sales for Different Products.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Daily Sales for Different Products\bin\Debug\Daily Sales for Different Products.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Daily Sales for Different Products\obj\Debug\Daily Sales for Different Products.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Daily Sales for Different Products\obj\Debug\Daily Sales for Different Products.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Daily Sales for Different Products\obj\Debug\Daily Sales for Different Products.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Daily Sales for Different Products\obj\Debug\Daily Sales for Different Products.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Daily Sales for Different Products\obj\Debug\Daily Sales for Different Products.exe.config

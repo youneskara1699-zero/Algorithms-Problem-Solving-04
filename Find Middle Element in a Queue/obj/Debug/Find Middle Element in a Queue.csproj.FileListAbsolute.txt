@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Middle Element in a Queue\bin\Debug\Find Middle Element in a Queue.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Middle Element in a Queue\bin\Debug\Find Middle Element in a Queue.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Middle Element in a Queue\bin\Debug\Find Middle Element in a Queue.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Middle Element in a Queue\obj\Debug\Find Middle Element in a Queue.exe.config

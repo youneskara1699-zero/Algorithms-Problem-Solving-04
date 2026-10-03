@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Book Information\bin\Debug\Store Book Information.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Book Information\bin\Debug\Store Book Information.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Book Information\bin\Debug\Store Book Information.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Book Information\obj\Debug\Store Book Information.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Book Information\obj\Debug\Store Book Information.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Book Information\obj\Debug\Store Book Information.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Book Information\obj\Debug\Store Book Information.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Store Book Information\obj\Debug\Store Book Information.exe.config

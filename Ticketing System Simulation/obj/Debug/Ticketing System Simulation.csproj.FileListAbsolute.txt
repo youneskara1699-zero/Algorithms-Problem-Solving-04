@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Ticketing System Simulation\bin\Debug\Ticketing System Simulation.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Ticketing System Simulation\bin\Debug\Ticketing System Simulation.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Ticketing System Simulation\bin\Debug\Ticketing System Simulation.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Ticketing System Simulation\obj\Debug\Ticketing System Simulation.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Ticketing System Simulation\obj\Debug\Ticketing System Simulation.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Ticketing System Simulation\obj\Debug\Ticketing System Simulation.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Ticketing System Simulation\obj\Debug\Ticketing System Simulation.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Ticketing System Simulation\obj\Debug\Ticketing System Simulation.exe.config

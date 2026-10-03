@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count Word Frequencies in a Text\bin\Debug\Count Word Frequencies in a Text.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count Word Frequencies in a Text\bin\Debug\Count Word Frequencies in a Text.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count Word Frequencies in a Text\bin\Debug\Count Word Frequencies in a Text.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count Word Frequencies in a Text\obj\Debug\Count Word Frequencies in a Text.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count Word Frequencies in a Text\obj\Debug\Count Word Frequencies in a Text.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count Word Frequencies in a Text\obj\Debug\Count Word Frequencies in a Text.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count Word Frequencies in a Text\obj\Debug\Count Word Frequencies in a Text.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count Word Frequencies in a Text\obj\Debug\Count Word Frequencies in a Text.exe.config

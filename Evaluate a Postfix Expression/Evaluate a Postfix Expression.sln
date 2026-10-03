@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluate a Postfix Expression", "Evaluate a Postfix Expression.csproj", "{EFC151F1-FBE0-4B50-B9EF-6A1B61531595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC151F1-FBE0-4B50-B9EF-6A1B61531595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC151F1-FBE0-4B50-B9EF-6A1B61531595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC151F1-FBE0-4B50-B9EF-6A1B61531595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC151F1-FBE0-4B50-B9EF-6A1B61531595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B664A0A5-CDCD-4873-A410-856BDA90AB8B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Live Chat Application\bin\Debug\Live Chat Application.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Live Chat Application\bin\Debug\Live Chat Application.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Live Chat Application\bin\Debug\Live Chat Application.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Live Chat Application\obj\Debug\Live Chat Application.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Live Chat Application\obj\Debug\Live Chat Application.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Live Chat Application\obj\Debug\Live Chat Application.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Live Chat Application\obj\Debug\Live Chat Application.pdb

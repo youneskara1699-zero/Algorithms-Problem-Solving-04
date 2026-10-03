@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organize Movie Showtimes", "Organize Movie Showtimes.csproj", "{61C00B4E-4848-47C1-8FC6-3746132CB9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C00B4E-4848-47C1-8FC6-3746132CB9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C00B4E-4848-47C1-8FC6-3746132CB9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C00B4E-4848-47C1-8FC6-3746132CB9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C00B4E-4848-47C1-8FC6-3746132CB9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A663F55A-2582-4519-8D59-63DA7042A71A}
+	EndGlobalSection
+EndGlobal

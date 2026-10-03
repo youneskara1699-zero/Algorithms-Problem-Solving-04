@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count the Number of True Bits  False Bits in a BitArray\bin\Debug\Count the Number of True Bits  False Bits in a BitArray.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count the Number of True Bits  False Bits in a BitArray\bin\Debug\Count the Number of True Bits  False Bits in a BitArray.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count the Number of True Bits  False Bits in a BitArray\bin\Debug\Count the Number of True Bits  False Bits in a BitArray.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count the Number of True Bits  False Bits in a BitArray\obj\Debug\Count the Number of True Bits  False Bits in a BitArray.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count the Number of True Bits  False Bits in a BitArray\obj\Debug\Count the Number of True Bits  False Bits in a BitArray.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count the Number of True Bits  False Bits in a BitArray\obj\Debug\Count the Number of True Bits  False Bits in a BitArray.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Count the Number of True Bits  False Bits in a BitArray\obj\Debug\Count the Number of True Bits  False Bits in a BitArray.pdb

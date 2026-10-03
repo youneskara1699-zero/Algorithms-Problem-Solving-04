@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Missing Number in an Array", "Find Missing Number in an Array.csproj", "{D3B3E108-9550-4449-AA82-4516EA2B3333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B3E108-9550-4449-AA82-4516EA2B3333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B3E108-9550-4449-AA82-4516EA2B3333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B3E108-9550-4449-AA82-4516EA2B3333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B3E108-9550-4449-AA82-4516EA2B3333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C884AA9-179B-473D-BB57-7F3CE5B60C47}
+	EndGlobalSection
+EndGlobal

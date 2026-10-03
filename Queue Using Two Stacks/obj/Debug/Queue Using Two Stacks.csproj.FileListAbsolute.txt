@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Queue Using Two Stacks\bin\Debug\Queue Using Two Stacks.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Queue Using Two Stacks\bin\Debug\Queue Using Two Stacks.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Queue Using Two Stacks\bin\Debug\Queue Using Two Stacks.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Queue Using Two Stacks\obj\Debug\Queue Using Two Stacks.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Queue Using Two Stacks\obj\Debug\Queue Using Two Stacks.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Queue Using Two Stacks\obj\Debug\Queue Using Two Stacks.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Queue Using Two Stacks\obj\Debug\Queue Using Two Stacks.pdb

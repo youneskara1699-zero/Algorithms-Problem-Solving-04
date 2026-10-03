@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Voting System\bin\Debug\Voting System.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Voting System\bin\Debug\Voting System.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Voting System\bin\Debug\Voting System.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Voting System\obj\Debug\Voting System.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Voting System\obj\Debug\Voting System.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Voting System\obj\Debug\Voting System.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Voting System\obj\Debug\Voting System.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Voting System\obj\Debug\Voting System.exe.config

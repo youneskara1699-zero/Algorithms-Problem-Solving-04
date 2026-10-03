@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Shopping Cart for an E-commerce App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A8012B-3C44-4511-ADE3-AF7943994956}|Shopping Cart for an E-commerce App.csproj|c:\\users\\shift 2.0\\desktop\\dsa problem solving\\shopping cart for an e-commerce app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A8012B-3C44-4511-ADE3-AF7943994956}|Shopping Cart for an E-commerce App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Shopping Cart for an E-commerce App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Shopping Cart for an E-commerce App\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T13:42:19.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

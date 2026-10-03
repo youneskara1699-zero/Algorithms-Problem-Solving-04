@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rotate a Queue\bin\Debug\Rotate a Queue.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rotate a Queue\bin\Debug\Rotate a Queue.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rotate a Queue\bin\Debug\Rotate a Queue.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rotate a Queue\obj\Debug\Rotate a Queue.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rotate a Queue\obj\Debug\Rotate a Queue.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rotate a Queue\obj\Debug\Rotate a Queue.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Rotate a Queue\obj\Debug\Rotate a Queue.pdb

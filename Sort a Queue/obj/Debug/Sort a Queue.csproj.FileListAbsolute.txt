@@ -1,0 +1,16 @@
+C:\Users\shift 2.0\Desktop\dsa C sharp\Sort a Queue\bin\Debug\Sort a Queue.exe.config
+C:\Users\shift 2.0\Desktop\dsa C sharp\Sort a Queue\bin\Debug\Sort a Queue.exe
+C:\Users\shift 2.0\Desktop\dsa C sharp\Sort a Queue\bin\Debug\Sort a Queue.pdb
+C:\Users\shift 2.0\Desktop\dsa C sharp\Sort a Queue\obj\Debug\Sort a Queue.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\dsa C sharp\Sort a Queue\obj\Debug\Sort a Queue.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\dsa C sharp\Sort a Queue\obj\Debug\Sort a Queue.exe
+C:\Users\shift 2.0\Desktop\dsa C sharp\Sort a Queue\obj\Debug\Sort a Queue.pdb
+C:\Users\shift 2.0\Desktop\dsa C sharp\Sort a Queue\obj\Debug\Sort a Queue.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort a Queue\bin\Debug\Sort a Queue.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort a Queue\bin\Debug\Sort a Queue.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort a Queue\bin\Debug\Sort a Queue.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort a Queue\obj\Debug\Sort a Queue.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort a Queue\obj\Debug\Sort a Queue.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort a Queue\obj\Debug\Sort a Queue.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort a Queue\obj\Debug\Sort a Queue.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Sort a Queue\obj\Debug\Sort a Queue.pdb

@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Stock Prices\bin\Debug\Real-Time Stock Prices.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Stock Prices\bin\Debug\Real-Time Stock Prices.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Stock Prices\bin\Debug\Real-Time Stock Prices.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Stock Prices\obj\Debug\Real-Time Stock Prices.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Stock Prices\obj\Debug\Real-Time Stock Prices.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Stock Prices\obj\Debug\Real-Time Stock Prices.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Real-Time Stock Prices\obj\Debug\Real-Time Stock Prices.pdb

@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Smallest and Largest Element\bin\Debug\Find Smallest and Largest Element.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Smallest and Largest Element\bin\Debug\Find Smallest and Largest Element.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Smallest and Largest Element\bin\Debug\Find Smallest and Largest Element.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Smallest and Largest Element\obj\Debug\Find Smallest and Largest Element.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Smallest and Largest Element\obj\Debug\Find Smallest and Largest Element.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Smallest and Largest Element\obj\Debug\Find Smallest and Largest Element.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Find Smallest and Largest Element\obj\Debug\Find Smallest and Largest Element.pdb

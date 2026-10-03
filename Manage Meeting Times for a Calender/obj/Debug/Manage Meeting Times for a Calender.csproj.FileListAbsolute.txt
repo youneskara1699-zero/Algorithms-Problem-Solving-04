@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Meeting Times for a Calender\bin\Debug\Manage Meeting Times for a Calender.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Meeting Times for a Calender\bin\Debug\Manage Meeting Times for a Calender.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Meeting Times for a Calender\bin\Debug\Manage Meeting Times for a Calender.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Meeting Times for a Calender\obj\Debug\Manage Meeting Times for a Calender.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Meeting Times for a Calender\obj\Debug\Manage Meeting Times for a Calender.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Meeting Times for a Calender\obj\Debug\Manage Meeting Times for a Calender.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Manage Meeting Times for a Calender\obj\Debug\Manage Meeting Times for a Calender.pdb

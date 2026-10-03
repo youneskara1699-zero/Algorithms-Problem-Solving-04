@@ -1,0 +1,8 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File System Organization\bin\Debug\File System Organization.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File System Organization\bin\Debug\File System Organization.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File System Organization\bin\Debug\File System Organization.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File System Organization\obj\Debug\File System Organization.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File System Organization\obj\Debug\File System Organization.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File System Organization\obj\Debug\File System Organization.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File System Organization\obj\Debug\File System Organization.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\File System Organization\obj\Debug\File System Organization.exe.config

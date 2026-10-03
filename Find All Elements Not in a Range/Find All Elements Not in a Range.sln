@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find All Elements Not in a Range", "Find All Elements Not in a Range.csproj", "{EC4316F4-720E-4E5A-91F2-A0F943873A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4316F4-720E-4E5A-91F2-A0F943873A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4316F4-720E-4E5A-91F2-A0F943873A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4316F4-720E-4E5A-91F2-A0F943873A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4316F4-720E-4E5A-91F2-A0F943873A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D8551A-3CF6-4EBF-9149-84AFA2D4559D}
+	EndGlobalSection
+EndGlobal

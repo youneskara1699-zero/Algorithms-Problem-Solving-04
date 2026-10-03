@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Task Management System\bin\Debug\Task Management System.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Task Management System\bin\Debug\Task Management System.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Task Management System\bin\Debug\Task Management System.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Task Management System\obj\Debug\Task Management System.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Task Management System\obj\Debug\Task Management System.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Task Management System\obj\Debug\Task Management System.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Task Management System\obj\Debug\Task Management System.pdb

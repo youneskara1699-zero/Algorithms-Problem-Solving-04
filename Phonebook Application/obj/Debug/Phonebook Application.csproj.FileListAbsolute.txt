@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Phonebook Application\bin\Debug\Phonebook Application.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Phonebook Application\bin\Debug\Phonebook Application.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Phonebook Application\bin\Debug\Phonebook Application.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Phonebook Application\obj\Debug\Phonebook Application.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Phonebook Application\obj\Debug\Phonebook Application.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Phonebook Application\obj\Debug\Phonebook Application.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Phonebook Application\obj\Debug\Phonebook Application.pdb

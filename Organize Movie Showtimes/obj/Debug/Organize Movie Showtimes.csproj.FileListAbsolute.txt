@@ -1,0 +1,7 @@
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Organize Movie Showtimes\bin\Debug\Organize Movie Showtimes.exe.config
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Organize Movie Showtimes\bin\Debug\Organize Movie Showtimes.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Organize Movie Showtimes\bin\Debug\Organize Movie Showtimes.pdb
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Organize Movie Showtimes\obj\Debug\Organize Movie Showtimes.csproj.AssemblyReference.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Organize Movie Showtimes\obj\Debug\Organize Movie Showtimes.csproj.CoreCompileInputs.cache
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Organize Movie Showtimes\obj\Debug\Organize Movie Showtimes.exe
+C:\Users\shift 2.0\Desktop\DSA Problem Solving\Organize Movie Showtimes\obj\Debug\Organize Movie Showtimes.pdb

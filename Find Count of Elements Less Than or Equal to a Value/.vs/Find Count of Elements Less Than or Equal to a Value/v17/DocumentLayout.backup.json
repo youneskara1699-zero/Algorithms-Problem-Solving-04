@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Find Count of Elements Less Than or Equal to a Value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC04A7F-719D-4C42-BF87-84870F4EAE92}|Find Count of Elements Less Than or Equal to a Value.csproj|c:\\users\\shift 2.0\\desktop\\dsa problem solving\\find count of elements less than or equal to a value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC04A7F-719D-4C42-BF87-84870F4EAE92}|Find Count of Elements Less Than or Equal to a Value.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Find Count of Elements Less Than or Equal to a Value\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shift 2.0\\Desktop\\DSA Problem Solving\\Find Count of Elements Less Than or Equal to a Value\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T14:24:04.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
